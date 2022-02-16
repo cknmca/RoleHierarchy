@@ -1,5 +1,5 @@
 # RoleHierarchy
-Role program using plain java with collection
+Role Hierarchy program using plain java with collection
 
 
 Sytem Requirement:
@@ -8,7 +8,7 @@ Compiler: jdk1.8
 IDE: Eclipse IDE
 
 
-Step 1: download the pachage in local 
+Step 1: download the package in local 
 step 2: import the package into eclipse workspace
 Step 3: Go to  the RoleManagementMenu.java 
 Step 4: run with java application(right click inside and choose the menu option via eclipse ide)
